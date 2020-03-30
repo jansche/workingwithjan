@@ -1,6 +1,6 @@
 # Working with Jan
 
-aka.ms/workingwithjan 
+[aka.ms/workingwithjan](http://aka.ms/workingwithjan)
 
 Creation Date: March 2020 
 Status: in progress  
