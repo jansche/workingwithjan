@@ -15,15 +15,15 @@ My philosophy: “Every day, I stand for equality and to shift the world towards
 
  - I generally work ~8:30am–~4.00pm CEST, and evening hours depending on load. I reserve quite some time for the family, also during the time that our timezones may overlap. I apologize (or do I?), that’s my priorities. 
 
-  - Don’t feel obliged to give in to my schedule. Let’s try asynchronous syncing, if we can’t find face time. 
+   - Don’t feel obliged to give in to my schedule. Let’s try asynchronous syncing, if we can’t find face time. 
 
-  - Answers to late-night emails isn’t expected or desired. I’m working when it fits my schedule. Feel free to answer when it fits your schedule. 
+   - Answers to late-night emails isn’t expected or desired. I’m working when it fits my schedule. Feel free to answer when it fits your schedule. 
 
-  - The persons I reserve time for: Wife: Claudia, daughter: Mia (born in 2007), son: Anton (born in 2013).  
+   - The persons I reserve time for: Wife: Claudia, daughter: Mia (born in 2007), son: Anton (born in 2013).  
 
-  - If you receive an email from me at night then the right interpretation is “because Jan is doing work on their schedule” rather than “Jan wants an answer right now.” 
+   - If you receive an email from me at night then the right interpretation is “because Jan is doing work on their schedule” rather than “Jan wants an answer right now.” 
 
-  - Same goes with Slack/Teams/WhatsApp or other chats. 
+   - Same goes with Slack/Teams/WhatsApp or other chats. 
 
  - I recently started to set up meetings 5 minutes short of the hour / half the hour. This happens intentionally, to make room for short breaks. I learned this as a self-caring/family-caring practice during corona crisis, but it makes sense for me to continue to facilitate in that way. Expect me to also drop out of calls earlier in respect of up-following meetings.   
 
@@ -43,15 +43,15 @@ My philosophy: “Every day, I stand for equality and to shift the world towards
 
  - Information should be open. That applies to documents, sheets, slides, and often calendars (although I respect that you might not want your calendar to be visible to anyone). Decisions to disclose on information might vary though:  
 
-  • good reason: protecting the confidence of a partner/customer/colleague 
+   - good reason: protecting the confidence of a partner/customer/colleague 
 
-  • good reason: the document includes personnel information 
+   - good reason: the document includes personnel information 
 
-  • poor reason: forgot to change the sharing settings 
+   - poor reason: forgot to change the sharing settings 
 
-  • poor reason: can’t imagine anybody else would be interested in this doc 
+   - poor reason: can’t imagine anybody else would be interested in this doc 
 
-  • poor reason: the doc’s not finished yet 
+   - poor reason: the doc’s not finished yet 
 
  - Unless you aren’t feeling well or are traveling I encourage you to use video chat often. There’s so much body language involved in working together and this establishes a more “in person” connection with your vis-a-vis.  
 
