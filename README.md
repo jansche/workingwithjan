@@ -35,7 +35,7 @@ My personal philosophy:
 
  - My mobile is usually muted, i.e. fully silenced to not distract me from the thing I’m currently doing. Calling me without an appointed time usually doesn’t work. 
 
- - I’m disciplined in balancing work and life. There’s no clear borders between the two anymore, but still we need to assign ourselves to these segments of your day. 
+ - I’m disciplined in balancing work and life. There’s no clear borders between the two anymore, but still we need to assign these segments to our days, for ourselves and our beloved ones. 
 
  - **I’m an advocate for inclusive behavior and Diversity & Inclusion in general.** I might get back to you to talk with you on a behavior I saw that you showed or you were exposed to. Don’t be afraid of talking about that, I’m striving to make things better, not embarrass anyone. 
 
@@ -63,4 +63,4 @@ My personal philosophy:
 
  - I’m a kind supporter of awesomeness. **You are 100% awesome.** You might just need to be empowered. 
 
-A lot of this is shamelessly ripped off from the document "Working With Kelly" by the wonderful Kelly McMichael ([Twitter](http://twitter.com/kellyshalk))
+A lot of this is shamelessly ripped off from the document "Working With Kelly" by the wonderful Kelly McMichael ([Twitter](http://twitter.com/kellyshalk)).
