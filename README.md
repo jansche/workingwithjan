@@ -10,9 +10,12 @@
 My personal philosophy: 
  > Every day, I stand for equality and to shift the world towards being a better place for everyone.  
 
- - *I’m a remote worker.* I usually go to the office only once or twice a week. When I do so, I want to connect with people I know and also those I haven’t met in-person yet. 
 
- - *I generally work ~8:30am–~4.00pm CEST*, and evening hours (after 9pm, depending on load. I avoid meetings in the evening. I reserve quite some time for the family, also during the time that our timezones may overlap. I apologize (or do I?), that’s my priorities. 
+### Things to know:
+
+ - **I’m a remote worker.** I usually go to the office only once or twice a week. When I do so, I want to connect with people I know and also those I haven’t met in-person yet. 
+
+ - **I generally work ~8:30am–~4.00pm CEST**, and evening hours (after 9pm, depending on load. I avoid meetings in the evening. I reserve quite some time for the family, also during the time that our timezones may overlap. I apologize (or do I?), that’s my priorities. 
 
    - Don’t feel obliged to give in to my schedule. Let’s try asynchronous syncing, if we can’t find face time. 
 
@@ -40,7 +43,7 @@ My personal philosophy:
 
  - I encourage you to find a mentor and sponsor (internal or external, maybe both) and for you to meet with other members of the team for your own learning and career growth. Feel free to meet with people I work with and ask me for a recommendation.  
 
- - *Information should be open.* That applies to documents, sheets, slides, and often calendars (although I respect that you might not want your calendar to be visible to anyone). Decisions to disclose on information might vary though:  
+ - **Information should be open.** That applies to documents, sheets, slides, and often calendars (although I respect that you might not want your calendar to be visible to anyone). Decisions to disclose on information might vary though:  
 
    - good reason: *protecting the confidence of a partner/customer/colleague* 
 
