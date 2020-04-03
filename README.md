@@ -27,7 +27,9 @@ My personal philosophy:
 
    - Same goes with Slack/Teams/WhatsApp or other chats. 
 
- - I recently started to set up meetings 5 minutes short of the hour / half the hour. This happens intentionally, to make room for short breaks. I learned this as a self-caring/family-caring practice during corona crisis, but it makes sense for me to continue to facilitate in that way. Expect me to also drop out of calls earlier in respect of up-following meetings.   
+- **I'm a person with Type 1 Diabetes.** I might experience a low glucose event during a meeting, an event or a phone call at any time. Imagine having stage fright, or when you were in a squat position for a while and then stand up quickly. That's a condition that I experience from time to time and for around 5 to 20 minutes. I will need to treat this condition through eating sugar. Please don't take this as an offense (it is never). I will also regularly check my blood glucose through my phone, my watch or my laptop. This also is never meant to be offensive. Please don't make me feel bad for taking care of my condition. I appreciate it.  
+
+- I recently started to set up meetings 5 minutes short of the hour / half the hour. This happens intentionally, to make room for short breaks. I learned this as a self-caring/family-caring practice during corona crisis, but it makes sense for me to continue to facilitate in that way. Expect me to also drop out of calls earlier in respect of up-following meetings.   
 
  - I don’t care if your email processing schedule aligns with mine or not (especially given the distributed nature of our global team.) 
 
