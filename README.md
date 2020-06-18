@@ -13,6 +13,8 @@ My personal philosophy:
 
 ### Things to know:
 
+ - **I go by the pronouns [he, him and his](https://www.mypronouns.org/he-him).** I also feel ok being mentioned with they, them and their and will often do so when I don't yet have clarity on your pronouns.  
+ 
  - **I’m a remote worker.** I usually go to the office only once or twice a week. When I do so, I want to connect with people I know and also those I haven’t met in-person yet. 
 
  - **I generally work ~8:30am–~4.00pm CEST**, and evening hours (after 9pm, depending on load. I avoid meetings in the evening. I reserve quite some time for the family, also during the time that our timezones may overlap. I apologize (or do I?), that’s my priorities. 
