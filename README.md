@@ -43,7 +43,7 @@ My personal philosophy:
 
 - **I’m an advocate for inclusive behavior and Diversity & Inclusion in general.** I might get back to you to talk with you on a behavior I saw that you showed or you were exposed to. Don’t be afraid of talking about that, I’m striving to make things better, not embarrass anyone. 
 
- - I rarely accept a meeting without an agenda unless it’s a 1:1 (possibly there’s a private reason you don’t want me to know about beforehand.) I recommend always having an agenda for meetings and if possible, pre-reads. This helps not only with attendance, but also makes the meeting time more productive.  
+ - I will ask for meeting agendas unless it’s a 1:1 (possibly there’s a private reason you don’t want me to know about beforehand.) I recommend always having an agenda for meetings and if possible, pre-reads. This helps not only with attendance, but also makes the meeting time more productive.  
 
  - I encourage you to find a mentor and sponsor (internal or external, maybe both) and for you to meet with other members of the team for your own learning and career growth. Feel free to meet with people I work with and ask me for a recommendation.  
 
