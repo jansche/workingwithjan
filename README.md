@@ -15,7 +15,7 @@ My personal philosophy:
 
  - **I go by the pronouns [he, him and his](https://www.mypronouns.org/he-him).** I also feel ok being mentioned with they, them and theirs. I will often use these (they/them/theirs) when I don't yet have clarity on your pronouns.  
  
- - **I’m a remote worker.** In non-pandemic situations I try to physically meet colleagues once or twice a week. When I do so, I want to connect, chat, make new freinds and learn about others. 
+ - **I’m a remote worker.** In non-pandemic situations I try to physically meet colleagues once or twice a week. When I do so, I want to connect, chat, make new friends and learn about others. 
 
  - **I generally work ~8:30am–~4.00pm CEST**, plus evening hours (after 9pm, depending on load. I avoid meetings in the evening. I reserve quite some time for the family, also during the time that our timezones may overlap.
 
