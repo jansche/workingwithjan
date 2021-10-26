@@ -3,7 +3,7 @@
 **[aka.ms/workingwithjan](http://aka.ms/workingwithjan)**
 
 *Creation Date: March 2020*  
-*Status: in progress, last updated April 20, 2021*  
+*Status: in progress, last updated Oct 26, 2021*  
 
 ### A collection of things that might be useful when working with me.  
 
@@ -13,11 +13,11 @@ My personal philosophy:
 
 ### Things to know:
 
- - **I go by the pronouns [he, him and his](https://www.mypronouns.org/he-him) or [they and them](https://www.mypronouns.org/they-them).** I also feel ok being mentioned with they, them and theirs. I will often use these (they/them/theirs) when I don't yet have clarity on your pronouns.  
+ - **I go by the pronouns [he, him and his](https://www.mypronouns.org/he-him) or [they and them](https://www.mypronouns.org/they-them).** I will often use these (they/them/theirs) when I don't yet have clarity on your pronouns.  
  
  - **I’m a remote worker.** In non-pandemic situations I try to physically meet colleagues once or twice a week. When I do so, I want to connect, chat, make new friends and learn about others. 
 
- - **I generally work ~8:00am–~6.00pm CET**, minus family hours in the afternoon (usually 2pm to 4pm), plus evening hours (after 9pm, depending on load. I avoid meetings in the evening. I reserve quite some time for the family, also during the time that our timezones may overlap.
+ - **I generally work ~8:00am–~6.00pm CET**, minus family hours in the afternoon (usually around 3pm), plus evening hours (after 9pm, depending on load). I avoid meetings in the evening. I reserve quite some time for the family, also during the time that our time zones may overlap.
 
    - Don’t feel obliged to give in to my schedule. If we can’t find face time this week, let's try asynchronous syncing. 
 
