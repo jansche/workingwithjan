@@ -1,9 +1,7 @@
 # Working with Jan
 
-**[aka.ms/workingwithjan](http://aka.ms/workingwithjan)**
-
 *Creation Date: March 2020*  
-*Status: in progress, last updated Oct 26, 2021*  
+*Status: living document, updated when needed*  
 
 ### A collection of things that might be useful when working with me.  
 
