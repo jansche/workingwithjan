@@ -17,9 +17,9 @@ My personal philosophy:
 
  - **I'm based in Munich, Germany, and work the CET time zone.** Due to personal reasons with medical conditions in my family I try to not travel too often. While you can always meet me in Munich, the chances to meet me somewhere else are rather limited. I will still enjoy meeting with y'all for special occasions.
 
- - **I generally work ~8:00am–~6.00pm CET**, minus family hours in the afternoon (usually around 3pm), occasional evening hours (after 9pm). I avoid meetings in the evening. I reserve quite some time for the family, also during the time that our time zones may overlap.
+ - **I generally work ~7:30am–~4.00pm CET**, family time unavailability may occur in the afternoon (usually between 2pm and 3pm), and I do occasional evening hours (after 9pm). I avoid meetings in the late afternoon and evening. I reserve quite some time for the family, also during the time that our time zones and working hours may overlap.
 
-   - Don’t feel obliged to give in to my schedule. If we can’t find face time this week, let's try asynchronous syncing. 
+   - Don’t feel obliged to give in to my schedule. If we can’t find face time this week, let's try asynchronous alignment. 
 
    - Answers to late-night messaging isn’t expected or desired. I’m working when it fits my schedule. Feel free to answer when it fits your schedule. 
 
@@ -39,7 +39,7 @@ My personal philosophy:
 
 - My mobile is usually muted, i.e. fully silenced to not distract me from the thing I’m currently doing. Calling me without an appointment usually doesn’t work. 
 
-- I’m disciplined in balancing work and life. There’s no clear borders between the two anymore, but still we need to assign these segments to our days, for ourselves and our beloved ones. 
+- I’m disciplined in balancing work and life. There’s no clear borders between the two anymore, but my take is we still we need to assign raw segments to our days, for ourselves and our beloved ones. 
 
 - **I’m an advocate for inclusive behavior and Diversity, Equity, Inclusion and Belonging in general.** I might get back to you to talk with you on a behavior I saw that you showed or you were exposed to. Don’t be afraid of talking about that, I’m striving to make things better, not embarrass anyone. 
 
