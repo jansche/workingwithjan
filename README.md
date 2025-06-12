@@ -11,7 +11,7 @@ My personal philosophy:
 
 ### Things to know:
 
- - **I go by the pronouns [he, him and his](https://www.mypronouns.org/he-him) or [they and them](https://www.mypronouns.org/they-them).** I will often use they,them and theirs when I don't yet have clarity on your pronouns.  
+ - **I go by the pronouns [he, him](https://www.mypronouns.org/he-him) or [they, them](https://www.mypronouns.org/they-them).** I will often use they,them and theirs when I don't yet have clarity on your pronouns.  
  
  - **I’m a remote worker.** In non-pandemic situations I try to physically meet colleagues once or twice a week. When I do so, I want to connect, chat, make new friends and learn about others.
 
